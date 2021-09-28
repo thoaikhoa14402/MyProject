@@ -1,0 +1,69 @@
+Afghanistan - Kabul
+Algeria - Algiers
+Argentina - Buenos Aires
+Armenia - Yerevan
+Australia - Canberra
+Austria - Vienna
+Bahrain - Manama
+Bangladesh - Dhaka
+Belgium - Brussels
+Brazil - Brasilia
+Brunei - Bandar Seri Begawan
+Bulgaria - Sofia
+Cambodia - Phnom Penh
+Cameroon - Yaounde
+Canada - Ottawa
+Central African Republic - Bangui
+Chile - Santiago
+China - Beijing
+Cuba - Havana
+Denmark - Copenhagen
+East Timor - Dili
+Ecuador - Quito
+Egypt - Cairo
+England - London
+Finland - Helsinki
+France - Paris
+Germany - Berlin
+Greece - Athens
+Hungary - Budapest
+India - New Delhi
+Indonesia - Jakarta
+Iran - Tehran
+Iraq - Baghdad
+Ireland - Dublin
+Israel - Jerusalem 
+Italy - Rome
+Jamaica - Kingston
+Japan - Tokyo
+Kenya - Nairobi
+Laos - Vientiane
+Luxembourg - Luxembourg
+Malaysia - Kuala Lumpur
+Mexico - Mexico City
+Monaco - Monaco
+Myanmar - Nay Pyi Taw
+Netherlands - Amsterdam
+New Zealand - Wellington
+Nigeria - Abuja
+North Korea - Pyongyang
+Philippines - Manila
+Poland - Warsaw
+Portugal - Lisbon
+Qatar - Doha
+Russia - Moscow
+South Africa - Pretoria
+South Korea - Seoul
+Spain - Madrid
+Sweden - Stockholm
+Switzerland - Bern
+Taiwan - Taipei
+Thailand - Bangkok
+Turkey - Ankara
+Ukraine - Kiev
+United Arab Emirates - Abu Dhabi
+United Kingdom - London
+United States - Washington D.C.
+Venezuela - Caracas
+Vietnam - Hanoi
+Wales - Cardiff

@@ -1,0 +1,5 @@
+﻿  main.cpp
+F:\Download ( F )\My Project\QuizGame\QuizGame\Mylib.h(27,26): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+F:\Download ( F )\My Project\QuizGame\QuizGame\Mylib.h(27,29): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+F:\Download ( F )\My Project\QuizGame\QuizGame\main.cpp(105,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  QuizGame.vcxproj -> F:\Download ( F )\My Project\QuizGame\Debug\QuizGame.exe
